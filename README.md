@@ -1,2 +1,2 @@
-# bootstrap-utilities
-A sylesheet with some utilities used with Bootstrap
+# batbelt.css
+The awesome CSS Batman's utility belt
