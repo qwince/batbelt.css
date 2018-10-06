@@ -1,3 +1,8 @@
+p {
+  display: block;
+  margin-bottom: 1em; 
+}
+
 .no-margin {
   margin: 0;
 }
@@ -84,4 +89,39 @@
 
 .padding-bottom-80 {
   padding-bottom: 80px;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.bat-btn {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 4px 8px;
+    border-radius: 2px;
+    background-color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.bat-success {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.bat-warning {
+  background-color: #fdff00;
+  color: black;
+}
+
+.bat-danger {
+  background-color: #f44336;
+  color: white;
+}
+
+.bat-info {
+  background-color: #2196F3;
+  color: white;
 }
