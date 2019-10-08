@@ -79,6 +79,10 @@ p {
   padding-top: 80px;
 }
 
+.padding-top-100 {
+  padding-top: 80px;
+}
+
 .padding-bottom-10 {
   padding-bottom: 10px;
 }
@@ -96,6 +100,10 @@ p {
 }
 
 .padding-bottom-80 {
+  padding-bottom: 80px;
+}
+
+.padding-bottom-100 {
   padding-bottom: 80px;
 }
 
