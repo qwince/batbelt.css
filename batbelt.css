@@ -142,6 +142,11 @@ p {
   color: white;
 }
 
+.bat-purple {
+  background-color: purple;
+  color: white;
+}
+
 .col-xs-0_5, .col-sm-0_5, .col-md-0_5, .col-lg-0_5,
 .col-xs-1_5, .col-sm-1_5, .col-md-1_5, .col-lg-1_5,
 .col-xs-2_5, .col-sm-2_5, .col-md-2_5, .col-lg-2_5 {
