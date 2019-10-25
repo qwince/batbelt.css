@@ -122,6 +122,17 @@ p {
     cursor: pointer;
 }
 
+.bat-btn-sm {
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding: 2px 4px;
+  border-radius: 1px;
+  background-color: white;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
 .bat-success {
   background-color: #4CAF50;
   color: white;
